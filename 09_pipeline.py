@@ -12,7 +12,6 @@
 # -----------------------------------------------
 """
 Required modules/things to install before running:
-- os
 - ssl
 - plotly
 - bs4
