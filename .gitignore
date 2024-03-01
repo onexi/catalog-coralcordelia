@@ -1,5 +1,5 @@
 node_modules
-filedump/*
+filedump/*.html
 bodies.json
 cleaned_bodies.json
 package-lock.json

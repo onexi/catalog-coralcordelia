@@ -40,9 +40,9 @@ os.system('python 05_extract.py')
 print('Generating word frequency...')
 os.system('python 06_frequency.py')
 print('Generating visualization...')
-print('If the program pauses for too long, do CONTROL+C then run 07_visualization.py afterwards to see the visualization!')
-os.system('python 07_visualization.py')
 print('Exporting data...')
 os.system('python 08_export.py')
+print('If the program pauses for too long, do CONTROL+C then run 07_visualization.py afterwards to see the visualization!')
+os.system('python 07_visualization.py')
    
 
